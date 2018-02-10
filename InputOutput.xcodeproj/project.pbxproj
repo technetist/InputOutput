@@ -223,16 +223,19 @@
 					7A35DAAE1F55030600D71EB9 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = K9KEJDHY56;
+						LastSwiftMigration = 0920;
 						ProvisioningStyle = Automatic;
 					};
 					7A35DAC01F55030700D71EB9 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = K9KEJDHY56;
+						LastSwiftMigration = 0920;
 						ProvisioningStyle = Automatic;
 					};
 					7A35DACF1F55030700D71EB9 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = K9KEJDHY56;
+						LastSwiftMigration = 0920;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -559,6 +562,7 @@
 				7A35DAE01F55030700D71EB9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7A35DAE21F55030700D71EB9 /* Build configuration list for PBXNativeTarget "InputOutput WatchKit App" */ = {
 			isa = XCConfigurationList;
@@ -567,6 +571,7 @@
 				7A35DAE41F55030700D71EB9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7A35DAE61F55030700D71EB9 /* Build configuration list for PBXNativeTarget "InputOutput" */ = {
 			isa = XCConfigurationList;
@@ -575,6 +580,7 @@
 				7A35DAE81F55030700D71EB9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
